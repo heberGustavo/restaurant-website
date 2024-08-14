@@ -1,5 +1,5 @@
-Pré-visualização do website
+## Demo - Restaurant :hamburger:
 
-URL: https://hebergustavo.github.io/Website_MyRestaurant/
+URL: https://hebergustavo.github.io/restaurant-website/
 
-![image](https://github.com/heberGustavo/Website_MyRestaurant/assets/44476616/2d849bd6-b24d-4861-8ae4-9583627908df)
+![image](https://github.com/user-attachments/assets/783d5a1a-785f-4b2a-859e-e9b148f26985)

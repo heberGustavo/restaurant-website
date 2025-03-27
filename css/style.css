@@ -445,8 +445,8 @@ html, body{ height: 100%; }
 	font-size:18px;
 }
 .book-btn a:hover{
-	border:3px solid red;
-	background:none;
+	border: 3px solid #ffdb4c;
+    color: #fff;
 }
 .hvr-underline-from-center {
     display: inline-block;
@@ -727,7 +727,7 @@ html, body{ height: 100%; }
     -moz-transition: all 300ms ease-out;
     -o-transition: all 300ms ease-out;
     transition: all 300ms ease-out;
-	bottom:0px;
+	bottom: 30%;
 }
 
 .item-type-zoom .item-info .headline {
